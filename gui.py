@@ -4,6 +4,7 @@ from constants import LOGO_PATH, LOGO_WIDTH, LOGO_HEIGHT, PLANETARY_DATA
 
 import tkinter as tk
 from tkinter import ttk, messagebox
+import matplotlib
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2Tk
 import numpy as np
