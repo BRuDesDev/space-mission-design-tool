@@ -1,6 +1,8 @@
 # 🛰️ Space Mission Design Tool
 <br>
 
+![Screen Shot 2025-02-08 at 11 51 50 AM](https://github.com/user-attachments/assets/b81666ad-970f-4ce8-8157-a735325efba0)
+
 ### 📣 Overview:
 
 The Space Mission Design Tool is an interactive application for visualizing 
@@ -70,7 +72,6 @@ tool brings space mission planning to life with an intuitive interface.
 
 -------------------------------------------------------------
 
-![Screen Shot 2025-02-08 at 11 51 50 AM](https://github.com/user-attachments/assets/b81666ad-970f-4ce8-8157-a735325efba0)
 
 
 ![App_SS_2](https://github.com/user-attachments/assets/730da940-51cb-4304-b669-d855f7745d31)
