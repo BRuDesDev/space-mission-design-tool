@@ -30,7 +30,7 @@ class SpaceMissionGUI:
 
     def __init__(self, root):
         self.root = root
-        self.root.title("Space Mission Main Window")
+        self.root.title("Space Mission Design Tool")
         self.root.geometry("600x500")
 
         # Apply ttkbootstrap theme
