@@ -27,7 +27,7 @@ tool brings space mission planning to life with an intuitive interface.
 
 📡 **Real-World Data Integration** – Fetch accurate planetary data from NASA APIs.
 
-🖥️ **Cross-Platform** – Built aesthetic UI desktop experience compatable on Windows/MacOSX/Linux.
+🖥️ **Cross-Platform** – Built aesthetic UI desktop experience compatible on Windows/MacOSX/Linux.
 
                                                          
 -------------------------------------------------------------
