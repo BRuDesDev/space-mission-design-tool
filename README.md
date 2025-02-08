@@ -54,7 +54,7 @@ tool brings space mission planning to life with an intuitive interface.
 
 1. 🚀 Launch the Tool
 
-        `$ python space_mission_design.py`
+  `$ python space_mission_design.py`
 
 2. Select Planets & Missions
 
